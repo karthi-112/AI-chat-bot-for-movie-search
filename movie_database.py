@@ -11,5 +11,5 @@ class MovieDatabase:
         return data["Search"]
 
 # Replace with your OMDb API key
-api_key = "sk-proj-ukB39fA9pe5ohn4VXIPnT3BlbkFJ3ERSTE5C6uQHCmTdcOgZ"
+api_key = "your OMDb API key"
 movie_db = MovieDatabase(api_key)
