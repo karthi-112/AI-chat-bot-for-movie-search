@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "science fiction",
+    "rating": 8.7,
+    "page_content": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "thumbnail": "https://example.com/thumbnails/the_matrix.jpg"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "science fiction",
+    "rating": 8.8,
+    "page_content": "A thief who steals information by infiltrating the subconscious is offered a chance to have his criminal history erased as payment for a task considered to be impossible: planting an idea into the subconscious.",
+    "thumbnail": "https://example.com/thumbnails/inception.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "action",
+    "rating": 9.0,
+    "page_content": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+    "thumbnail": "https://example.com/thumbnails/dark_knight.jpg"
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "genre": "drama",
+    "rating": 8.5,
+    "page_content": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "thumbnail": "https://example.com/thumbnails/prestige.jpg"
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "genre": "crime",
+    "rating": 8.5,
+    "page_content": "An undercover cop and a mole in the police department attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "thumbnail": "https://example.com/thumbnails/departed.jpg"
+  }
+]
